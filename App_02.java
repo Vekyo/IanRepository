@@ -1,5 +1,5 @@
 
-public class Application_02 {
+public class App_02 {
 	public static void main(String[] args) {
 		int myInt = 7;
 		
