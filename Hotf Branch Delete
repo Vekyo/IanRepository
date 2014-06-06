@@ -1,0 +1,3 @@
+git push origin --delete Hotf
+
+git branch -d Hotf
